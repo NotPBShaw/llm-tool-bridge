@@ -1,5 +1,7 @@
-# mcp-style-tool-bridge
+# Llm Tool Bridge
 
-![CI](https://github.com/TryKosm/mcp-style-tool-bridge/actions/workflows/ci.yml/badge.svg)
+Validated model-to-tool dispatch with typed payloads.
+
+![CI](https://github.com/TryKosm/llm-tool-bridge/actions/workflows/ci.yml/badge.svg)
 
 TypeScript bridge that maps model tool calls to validated local handlers.
